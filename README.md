@@ -5,7 +5,7 @@
 Pull request 를 통해 아래의 N행시를 완성해 주세요!
 
 1. fork를 합니다.
-![image](https://user-images.githubusercontent.com/98133984/191878118-3368ae45-c7af-40ca-9a4d-f1559b23dc48.png)
+![image](./image/2022-11-16%2009%2041%2017.jpg)
 
 2. 교육생은 fork 한 자신의 repository를 clone하여 자신의 local에 복제합니다.
 
